@@ -1,3 +1,11 @@
+#NAME- SHIVAM KUMAR
+#ERP- RU-26-02982
+#SECTION- B2
+#PS NO. - 51
+#COURSE- BTECH CSE(CORE)
+#TOPIC- GROCERY STORE MANAGEMENT SYSTEM
+
+
 # Grocery Store Management System
 
 # Inventory: item -> [price, stock]
